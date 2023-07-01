@@ -4,7 +4,7 @@ import { Row, Col, Image, ListGroup, Card, Button } from "react-bootstrap";
 import Rating from "../components/Rating";
 import products from "../products";
 
-const ProductPage = () => {
+const Product = () => {
   const { id: productId } = useParams();
   const product = products.find((p) => p._id === productId);
 
@@ -70,4 +70,4 @@ const ProductPage = () => {
   );
 };
 
-export default ProductPage;
+export default Product;
