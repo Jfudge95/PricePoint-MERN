@@ -26,7 +26,7 @@ const cartSlice = createSlice({
         );
       } else {
         // If not exists, add new item to cartItems
-        state.cartItems = [...state.cartItems];
+        state.cartItems = [...state.cartItems, item];
       }
 
       // Calculate the items price
