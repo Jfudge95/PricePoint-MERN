@@ -11,7 +11,6 @@ import store from "./store";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/styles/index.css";
 import App from "./App";
-import reportWebVitals from "./reportWebVitals";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
 
@@ -32,5 +31,3 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
-
-reportWebVitals();
