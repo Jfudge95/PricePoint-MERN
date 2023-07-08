@@ -1,5 +1,7 @@
 import Express from "express";
+
 const router = Express.Router();
+
 import {
   getProducts,
   getProductById,
