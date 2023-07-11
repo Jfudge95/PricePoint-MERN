@@ -11,6 +11,7 @@ import store from "./store";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/styles/index.css";
 import App from "./App";
+import PrivateRoute from "./components/PrivateRoute";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
 import Cart from "./pages/Cart";
@@ -26,7 +27,11 @@ const router = createBrowserRouter(
       <Route path="/cart" element={<Cart />} />
       <Route path="/login" element={<Login />} />
       <Route path="/register" element={<Register />} />
-      <Route path="/shipping" element={<Shipping />} />
+
+      {/* Registered users */}
+      <Route path="" element={<PrivateRoute />}>
+        <Route path="/shipping" element={<Shipping />} />
+      </Route>
     </Route>
   )
 );
