@@ -25,20 +25,20 @@ PricePoint is a comprehensive eCommerce platform that provides a seamless shoppi
 
 By working on PricePoint, I have gained valuable skills and knowledge in the following areas:
 
-- React: Building user interfaces using functional components and hooks.
-- React Router: Implementing client-side routing for seamless navigation.
-- React-Bootstrap: Utilizing the React-Bootstrap UI library to create a visually appealing interface.
-- Component Structure: Understanding how to organize and structure components effectively.
-- Component State and Props: Managing component-level state and passing props between components.
-- Global State Management with Redux: Utilizing Redux actions and reducers to manage global application state.
-- Redux State in Components: Accessing and using Redux state within components using useDispatch and useSelector.
-- Express: Creating a robust back end using the Express framework.
-- MongoDB and Mongoose: Working with a MongoDB database and utilizing the Mongoose ODM (Object Data Modeling).
-- JWT Authentication: Implementing JSON web token (JWT) authentication with HTTP-Only cookies.
-- Custom Authentication Middleware: Creating custom middleware for authentication purposes.
-- Custom Error Handling: Implementing a custom error handler for better error management.
-- PayPal API Integration: Integrating the PayPal API for secure payment processing.
-- Environment Variables: Understanding the use of environment variables for configuration and security.
+- **React**: Building user interfaces using functional components and hooks.
+- **React Router**: Implementing client-side routing for seamless navigation.
+- **React-Bootstrap**: Utilizing the React-Bootstrap UI library to create a visually appealing interface.
+- **Component Structure**: Understanding how to organize and structure components effectively.
+- **Component State and Props**: Managing component-level state and passing props between components.
+- **Global State Management with Redux**: Utilizing Redux actions and reducers to manage global application state.
+- **Redux State in Components**: Accessing and using Redux state within components using useDispatch and useSelector.
+- **Express**: Creating a robust back end using the Express framework.
+- **MongoDB and Mongoose**: Working with a MongoDB database and utilizing the Mongoose ODM (Object Data Modeling).
+- **JWT Authentication**: Implementing JSON web token (JWT) authentication with HTTP-Only cookies.
+- **Custom Authentication Middleware**: Creating custom middleware for authentication purposes.
+- **Custom Error Handling**: Implementing a custom error handler for better error management.
+- **PayPal API Integration**: Integrating the PayPal API for secure payment processing.
+- **Environment Variables**: Understanding the use of environment variables for configuration and security.
 
 
 
