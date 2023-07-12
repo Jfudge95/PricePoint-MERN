@@ -1,9 +1,7 @@
 # PricePoint
 
-Welcome to PricePoint, an eCommerce website I built using the MERN stack (MongoDB, Express, React, Node.js) along with Redux Toolkit
-## Description
+Welcome to PricePoint, a comprehensive eCommerce platform I built using the MERN stack (MongoDB, Express, React, Node.js) along with Redux Toolkit
 
-PricePoint is a comprehensive eCommerce platform that provides a seamless shopping experience for users. I learned and implemented various aspects of web development, including server setup, data modeling, MongoDB database creation, data seeding, UI design, state management with Redux, JWT authentication, and much more.
 
 ## Features
 
@@ -22,8 +20,6 @@ PricePoint is a comprehensive eCommerce platform that provides a seamless shoppi
 - **Custom Database Seeder Script**: Automate the process of seeding the database with sample data.
 
 ## Key Takeaways
-
-By working on PricePoint, I have gained valuable skills and knowledge in the following areas:
 
 - **React**: Building user interfaces using functional components and hooks.
 - **React Router**: Implementing client-side routing for seamless navigation.
