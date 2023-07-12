@@ -29,6 +29,7 @@ Welcome to PricePoint, a comprehensive eCommerce platform I built using the MERN
 - **Global State Management with Redux**: Utilizing Redux actions and reducers to manage global application state.
 - **Redux State in Components**: Accessing and using Redux state within components using useDispatch and useSelector.
 - **Express**: Creating a robust back end using the Express framework.
+- **Postman**: Utilizing Postman to extensively test the CRUD API endpoints, ensuring proper functionality, data validation, and error handling, resulting in a reliable and well-tested backend system.
 - **MongoDB and Mongoose**: Working with a MongoDB database and utilizing the Mongoose ODM (Object Data Modeling).
 - **JWT Authentication**: Implementing JSON web token (JWT) authentication with HTTP-Only cookies.
 - **Custom Authentication Middleware**: Creating custom middleware for authentication purposes.
