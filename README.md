@@ -37,6 +37,17 @@ Welcome to PricePoint, a comprehensive eCommerce platform I built using the MERN
 - **PayPal API Integration**: Integrating the PayPal API for secure payment processing.
 - **Environment Variables**: Understanding the use of environment variables for configuration and security.
 
+## Sample User Logins
+```
+admin@email.com (Admin)
+123456
+
+john@email.com (Customer)
+123456
+
+jane@email.com (Customer)
+123456
+```
 
 
 
