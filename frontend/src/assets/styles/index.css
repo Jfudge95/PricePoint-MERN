@@ -62,10 +62,6 @@ table th {
   position: absolute;
 }
 
-.carousel-caption h2 {
-  color: #fff;
-}
-
 .carousel img {
   height: 300px;
   padding: 30px;
@@ -77,12 +73,7 @@ table th {
 .carousel a {
   margin: 0 auto;
 }
-@media (max-width: 900px) {
-  .carousel-caption h2 {
-    font-size: 2.5vw;
-  }
-}
 
 .custom-carousel {
-  background-color: #36454f; /* Charcoal */
+  background-color: #212429;
 }
