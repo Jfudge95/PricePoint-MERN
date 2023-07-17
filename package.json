@@ -1,7 +1,7 @@
 {
   "name": "pricepoint",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ecommerce application built with the MERN stack",
   "type": "module",
   "main": "server.js",
   "scripts": {
