@@ -2,6 +2,10 @@
 
 Welcome to PricePoint, a comprehensive eCommerce platform I built using the MERN stack (MongoDB, Express, React, Node.js) along with Redux Toolkit
 
+Enjoy the website and feel free to create a user account or use any of the sample users listed below.
+
+Website: https://pricepoint.onrender.com
+
 ## Screenshot 
 ![Screenshot of home page](frontend/src/assets/demo/PricePoint_Demo.png)
 
