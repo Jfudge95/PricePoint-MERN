@@ -4,7 +4,7 @@ Welcome to PricePoint, a comprehensive eCommerce platform I built using the MERN
 
 Enjoy the website and feel free to create a user account or use any of the sample users listed below.
 
-Website: https://pricepoint.onrender.com
+Website: https://pricepoint-r50d.onrender.com
 
 ## Screenshot 
 ![Screenshot of home page](frontend/src/assets/demo/PricePoint_Demo.png)
